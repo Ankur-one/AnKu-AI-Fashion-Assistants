@@ -1,0 +1,71 @@
+{
+    "dataset_overview": {
+        "total_products": 68,
+        "total_outfits": 25,
+        "unique_categories": 47,
+        "unique_occasions": 8,
+        "unique_genders": 2,
+        "unique_brands": 64
+    },
+    "category_analysis": {
+        "top_categories": {
+            "ethnic-footwear": 4,
+            "heels": 4,
+            "clutches": 4,
+            "formal-shirts": 3,
+            "party-dresses": 3
+        },
+        "distribution": {
+            "topwear": 13,
+            "bottomwear": 7,
+            "footwear": 7,
+            "accessories": 6
+        }
+    },
+    "occasion_analysis": {
+        "top_occasions": {
+            "casual": 15,
+            "party": 13,
+            "office": 12,
+            "festive": 9,
+            "wedding": 6
+        },
+        "total_unique": 8
+    },
+    "gender_analysis": {
+        "men": 68,
+        "women": 41,
+        "unisex": 0
+    },
+    "price_analysis": {
+        "min": 270.0,
+        "max": 7799.0,
+        "average": 1518.1323529411766,
+        "median": 1082.0
+    },
+    "data_quality": {
+        "missing_values_by_column": {
+            "id": 0,
+            "name": 0,
+            "brand": 0,
+            "price_inr": 0,
+            "rating": 25,
+            "rating_count": 42,
+            "gender": 0,
+            "wear_type": 0,
+            "category": 0,
+            "category_label": 0,
+            "occasion": 0,
+            "tags": 0,
+            "description": 0,
+            "description_source": 0,
+            "image": 0,
+            "site": 0,
+            "product_url": 0,
+            "collected_at": 0
+        },
+        "duplicates": 0,
+        "missing_images": 0,
+        "missing_metadata": 0
+    }
+}
