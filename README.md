@@ -69,7 +69,7 @@ The application follows a modular, decoupled architecture:
 
 ##  Project Structure
 ```text
-dare-xai/
+AnKu-Ai/
 ├── backend/
 │   ├── chatbot/              # Gemini integration and intent extraction
 │   ├── embeddings/           # CLIP model loading and FAISS index generation
@@ -86,15 +86,15 @@ dare-xai/
 
 Author
 
-Avinash Singh
+Ankur Kumar
 
-B.Tech (Artificial Intelligence & Machine Learning)
+B.Tech Computer Science Engineer
 
 AI/ML Engineer
 
-LinkedIn: https://linkedin.com/in/avinash-singh-1a5832262
+LinkedIn: [https://linkedin.com/in/ankur](https://www.linkedin.com/in/ankur-kumar-198031287?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-GitHub: https://github.com/avinashsingh0218
+GitHub: https://github.com/ankur-one
 
 ## Dataset Analysis Findings
 
